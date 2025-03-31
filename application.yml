@@ -1,7 +1,4 @@
-spring:
-    application:
-        name: Config-Default-Quiz-Service
-            
+
 eureka:
     client:
         fetch-registry: true
